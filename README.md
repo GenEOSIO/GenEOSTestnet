@@ -25,8 +25,8 @@ cd geneos
   ```   
 - add execution rights  
   ```
-  chmod -R 777 ./*.sh   
-  chmod -R 777 ./Wallet/*.sh 
+  chmod -R 777 *.sh   
+  chmod -R 777 /Wallet/*.sh 
   ```  
 
 - If you use different data-dir folders -> edit all paths in files cleos.sh, start.sh, stop.sh, config.ini, Wallet/start_wallet.sh, Wallet/stop_wallet.sh:
