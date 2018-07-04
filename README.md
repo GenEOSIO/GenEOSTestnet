@@ -12,7 +12,8 @@ To create your GENEOS key pair you can use clgeneos command (need already instal
 ```
 cd
 git clone https://github.com/geneosio/geneos --recursive    
-cd geneos  
+cd geneos
+git checkout testnet1.0.7
 ./geneosio_build.sh   
 ```  
 
