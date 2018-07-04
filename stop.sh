@@ -1,6 +1,6 @@
 #!/bin/bash
 
-DIR="/home/ivan/geneosTestnet/eosionode"
+DIR="/home/ivan/geneosTestnet/node"
 
 
     if [ -f $DIR"/nodgeneos.pid" ]; then
