@@ -1,7 +1,7 @@
 #!/bin/bash
 
 NODEOSBINDIR="/home/ivan/geneos/build/programs/nodgeneos"
-DATADIR="/home/ivan/geneosTestnet/eosionode"
+DATADIR="/home/ivan/geneosTestnet/node"
 
 $DATADIR/stop.sh
 echo -e "Starting Nodgeneos \n";
