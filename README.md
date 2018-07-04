@@ -30,7 +30,7 @@ git checkout testnet1.0.7
   chmod -R 777 /Wallet/*.sh 
   ```  
 
-- If you use different data-dir folders -> edit all paths in files cleos.sh, start.sh, stop.sh, config.ini, Wallet/start_wallet.sh, Wallet/stop_wallet.sh:
+- If you use different data-dir folders -> edit all paths in files clgeneos.sh, start.sh, stop.sh, config.ini, Wallet/start_wallet.sh, Wallet/stop_wallet.sh:
 
 
 - Choose your producer name (12 symbols length a-z 1-5) and create own GENEOS key pair  
