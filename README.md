@@ -64,11 +64,11 @@ git checkout testnet1.0.7
 
 
 
-Send SYS (CORE TOKEN OF GENEOS)
+Send GENEOS (CORE TOKEN OF GENEOS)
 ```
-./cleos.sh transfer <your account>  <receiver account> "1.0000 SYS" "test memo text"
+./clgeneos.sh transfer <your account>  <receiver account> "1.0000 GENEOS" "test memo text"
 ```
 Get Balance  
 ```
-./cleos.sh get currency balance eosio.token <account name>
+./clgeneos.sh get currency balance eosio.token <account name>
 ```
