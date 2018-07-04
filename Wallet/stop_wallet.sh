@@ -1,12 +1,6 @@
 #!/bin/bash
-################################################################################
-#
-# Scrip Created by http://CryptoLions.io
-# https://github.com/CryptoLions/EOS-Jungle-Testnet
-#
-###############################################################################
 
-DIR="/home/ivan/opt/GenEOSTestnet/programs"
+DIR="/home/ivan/geneosTestnet/node"
 
     if [ -f $DIR"/wallet.pid" ]; then
         pid=$(cat $DIR"/wallet.pid")
