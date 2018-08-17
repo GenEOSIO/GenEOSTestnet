@@ -1,0 +1,19 @@
+[
+  {
+    "name": "genEOS Testnet",
+    "description": "The genEOS Testnet",
+    "owner": "The genEOS community",
+    "chainId": "109afa5f01a84f803f48332291ea2e1a5ee8b8196c581f49afa87d241ad5b64b",
+    "type": "mainnet",
+    "network": "eos",
+    "endpoints": [
+      {
+        "name": "genEOS Testnet",
+        "protocol": "http",
+        "port": 8888,
+        "url": "148.251.96.180",
+        "description": "API Node"
+      }
+    ]
+  }
+]
